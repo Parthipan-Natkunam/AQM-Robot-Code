@@ -1,5 +1,5 @@
 # AQM-Robot-Code
-The Arduino code files for the Air Quality Monitoring (AQM) robot prototype.
+The Arduino code files for certain modules of the Air Quality Monitoring (AQM) robot prototype.
 
 This repository contains the Arduino codes for the robotic prototype named AQM(Air Quality Monitoring) robot that measures
 the concentration of certain types of polluting gases in the air and produces a real-time report.
